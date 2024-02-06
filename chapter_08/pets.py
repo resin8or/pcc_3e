@@ -1,3 +1,4 @@
+# animal type is a default value, so it is optional to provide it
 def describe_pet(pet_name, animal_type='dog'):
     """Display information about a pet."""
     print(f"\nI have a {animal_type}.")

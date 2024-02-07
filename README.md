@@ -11,3 +11,6 @@ If you have any questions about Python Crash Course, feel free to get in touch:
 Email: ehmatthes@gmail.com
 
 Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
+
+This is a copy of the repository code that was originally published.
+

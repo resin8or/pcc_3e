@@ -18,3 +18,6 @@ while True:
 
     formatted_name = get_formatted_name(f_name, l_name)
     print(f"\nHello, {formatted_name}!")
+    
+    # could use named parameters as part of the function call
+    # formatted_name = get_formatted_name(last_name=l_name, first_name=f_name)
